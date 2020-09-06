@@ -1,0 +1,24 @@
+{
+  "name": "howler-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PresentMoment/howler-me.git"
+  },
+  "author": "Robert Girardin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PresentMoment/howler-me/issues"
+  },
+  "homepage": "https://github.com/PresentMoment/howler-me#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "howler": "^2.2.0",
+    "jquery": "^3.5.1"
+  }
+}

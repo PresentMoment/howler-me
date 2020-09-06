@@ -1,0 +1,64 @@
+i {
+  color: #002eff;
+}
+
+button {
+  margin: 25px 0 0 25px;
+}
+
+p {
+  font-family: Helvetica, Arial;
+  margin: 0;
+}
+
+.hide {
+  display: none;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.audio-icons {
+  padding-top: 1px;
+}
+
+#progress-container {
+  display: flex;
+  flex-grow: 5;
+  margin: 0 6px;
+}
+
+#progress-icons {
+  display: flex;
+  flex-grow: 5;
+  background-color: #918f8f;
+  margin: 0 6px;
+  height: 18px;
+}
+
+#progress {
+  background-color: #002eff;
+}
+
+.volume-icons {
+  display: flex;
+  flex-grow: 1;
+}
+
+.fa-volume-up {
+  padding-top: 1px;
+}
+
+#volume-bg {
+  display: flex;
+  background-color: #918f8f;
+  margin: 0 6px;
+  width: 100%;
+  height: 18px;
+}
+
+#volume {
+  background-color: #002eff;
+}
